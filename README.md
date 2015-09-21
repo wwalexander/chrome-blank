@@ -1,7 +1,7 @@
 blank
 =====
 
-An extension for Chromium-based browsers which replaces the new tab page with a
+An extension for Chromium-based browsers that replaces the new tab page with a
 blank page
 
 Building
