@@ -1,5 +1,5 @@
-blank
-=====
+chrome-blank
+============
 
 An extension for Chromium-based browsers that replaces the new tab page with a
 blank page
