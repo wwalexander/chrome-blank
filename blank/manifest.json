@@ -2,7 +2,8 @@
 	"manifest_version": 2,
 	"name": "Blank",
 	"description": "Replaces the new tab page with a blank page",
-	"version": "0.0.2",
+	"version": "0.0.3",
+	"icons": { "128": "icon128.png" },
 	"chrome_url_overrides": {
 		"newtab": "blank.html"
 	}
